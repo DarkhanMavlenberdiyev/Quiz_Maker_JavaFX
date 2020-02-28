@@ -1,0 +1,20 @@
+Which one is FALSE about Java Object class?
+It is an abstract class
+Any class in Java is the child of Object
+A new instance of Object can be created
+It has the toString method implemented
+
+A {blank} variable is a constant value that can not be changed
+final
+
+The visibility modifier that makes a data field/method visible only within this class and any class in the same package:
+(blank) default
+protected
+private
+public
+
+JRE stands for Java {blank} Environment.
+Runtime
+
+Comparable is an example for Java {blank}
+interface
